@@ -1,0 +1,13 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  width: 100%;
+  background-image: url('/dahayu.png');
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
